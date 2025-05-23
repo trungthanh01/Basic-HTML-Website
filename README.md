@@ -12,7 +12,7 @@ Focus on html Structure
 https://roadmap.sh/projects/basic-html-website
 # Comment:
 Please leave a comment for this project <br>
-I used some style on html because i am not into the boring of no style.
+I used some style on html because i am not into the boring of no style. <br>
 Let see the result below
 # The Result:
 ![image](https://github.com/user-attachments/assets/fcee7d8c-a931-44c3-837c-15abb7419738)
